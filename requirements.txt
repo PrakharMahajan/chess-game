@@ -1,0 +1,5 @@
+pip install python-chess
+
+pygame - Version: 2.3.0 ; License - LGPL
+chess - Version: 1.9.4 ; License - GPL-3.0+
+
